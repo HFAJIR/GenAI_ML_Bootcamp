@@ -23,7 +23,7 @@ for name, age in people:
     total_cost += ticket_price
 
 # Display total cost
-print(f"\n💵 Total ticket cost for the group: ${total_cost}")
+print(f"\n Total ticket cost for the group: ${total_cost}")
 
 # Restricted movie (ages 16–21 only)
 allowed_people = [(name, age) for name, age in people if 16 <= age <= 21]
