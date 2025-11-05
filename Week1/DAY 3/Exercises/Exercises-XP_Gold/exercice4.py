@@ -41,3 +41,4 @@ total_cost = sum(list_items)
 print(f"The total cost to buy everything in stock is ${total_cost}")
 
 print("\n---\n")
+
