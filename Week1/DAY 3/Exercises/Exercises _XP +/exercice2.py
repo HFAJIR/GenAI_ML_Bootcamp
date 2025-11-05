@@ -99,5 +99,3 @@ print(" - Focus marketing efforts on loyal customers to increase retention.")
 print(" - Promote high-value products to maximize revenue.")
 print(" - Utilize customer spending profiles to tailor marketing campaigns.")
 
-git commit -m "Completed Exercise 2: Advanced Data Manipulation and Analysis"
-git push origin main
