@@ -1,0 +1,5 @@
+Flask
+translate
+gTTS
+python-dotenv
+psycopg2
